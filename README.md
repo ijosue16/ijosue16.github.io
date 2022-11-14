@@ -4,7 +4,7 @@
 
 > **This is the final modification of the portfolio website project**
 **This is not a  full responsive  website. It's just a  web look alike based on the figma design we were provided.**
-**The project is fully constructed with all of the needed elements and sections and also with responsive queries basing on the device view port width **
+**The project is fully constructed with all of the needed elements and sections and also with responsive queries basing on the device view port width**
 
 
 ## Built With
@@ -15,12 +15,12 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+click here to view website[Live Demo](https://ijosue16.github.io/)
 
 
 ## Getting Started
 
-###run the following command if you are using the terminal or cmd ###
+run the following command if you are using the terminal or cmd 
 <code>git clone git@github.com:ijosue16/Mobile-portofolio.git</code>
 **and add **
 
